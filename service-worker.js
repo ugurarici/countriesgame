@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.2918eb59e0d69dd6624f8906db97754e.js"
+  "/precache-manifest.b469f3ad09e6cd42e7bb0b38a794dbac.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "countries-game"});
